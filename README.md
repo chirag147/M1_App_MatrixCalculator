@@ -1,7 +1,7 @@
 # MATRIX CALCULATOR
 ##MINI PROJECT
 
-![Banner](https://github.com/chirag147/M1_App_MatrixCalculator/blob/b79ab89e46a285f3ad52deaa43bf67a7348e12e3/1_Requirements/Matrix.png)
+![Banner!](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2999a7bfaea6fc69ca9d9a8a77c05a7c06eec296/1_Requirements/matrix.png)
 
 
 ## Folder Structure
