@@ -33,7 +33,7 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 
 ## Who
   * Students who want to solve matrix related problems for their academic work
-  * Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
+  * Datascience workers working on machine learning and deep learning applications which majorly involve matrices
   * Software engineers
   * Researchers and mathematicians
 
