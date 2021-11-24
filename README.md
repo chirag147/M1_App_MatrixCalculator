@@ -3,7 +3,6 @@
 
 ![Banner!](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2999a7bfaea6fc69ca9d9a8a77c05a7c06eec296/1_Requirements/matrix.png)
 
-
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -11,7 +10,6 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-
 
 ## Contributors List and Summary
 
