@@ -42,10 +42,10 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
   * Comes to a great use when calculating for matrices of huge order.
 
 ## Where
-  * Students, employees and researchers all over the world.
+Students, employees and researchers all over the world.
 
 ## How
-  * This program can be executed in a system which has Linux or Windows operating system. 
+This program can be executed in a system which has Linux or Windows operating system. 
 
 ## High Level Requirements
 | ID | Description | Category | Status | 
@@ -55,7 +55,7 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 | HR03 | User shall be able to subtract the matrices| Techincal |  IMPLEMENTED  |
 | HR04 | User shall be able to multiply the matrices | Techincal |  IMPLEMENTED  |
 | HR05 | User shall be able to find determinant, transpose and inverse of a matrix | Techincal |  IMPLEMENTED  |
-##  Low level Requirements 
+## Low level Requirements 
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | (1). User must specify the size of the matrix.                                                    (2). The size specified is the dimensions of the square matrix | HR01 |  IMPLEMENTED  |
