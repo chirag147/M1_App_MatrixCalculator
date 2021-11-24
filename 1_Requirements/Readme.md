@@ -36,7 +36,6 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 ## What
   * Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
 
-
 ## When
   * Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
   * Researchers can use it for getting a quick calculation output.
@@ -56,8 +55,7 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 | HR03 | User shall be able to subtract the matrices| Techincal |  IMPLEMENTED  |
 | HR04 | User shall be able to multiply the matrices | Techincal |  IMPLEMENTED  |
 | HR05 | User shall be able to find determinant, transpose and inverse of a matrix | Techincal |  IMPLEMENTED  |
-##  Low level Requirements
- 
+##  Low level Requirements 
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | (1). User must specify the size of the matrix.                                                    (2). The size specified is the dimensions of the square matrix | HR01 |  IMPLEMENTED  |
