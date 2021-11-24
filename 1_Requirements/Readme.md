@@ -31,28 +31,28 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
  * Students who want to solve matrix related problems for their academic work
  * Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
  * Software engineers
  * Researchers and mathematicians
 
-## What:
+## What
  * Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
 
 
-## When:
+## When
  * Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
  * Researchers can use it for getting a quick calculation output.
  * Comes to a great use when calculating for matrices of huge order.
 
-## Where:
+## Where
  * Students, employees and researchers all over the world.
 
-## How:
+## How
  * This program can be executed in a system which has Linux or Windows operating system. 
 
-## High Level Requirements: 
+## High Level Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to specify the size of the matrix |Technical| IMPLEMENTED |
@@ -60,7 +60,7 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 | HR03 | User shall be able to subtract the matrices| Techincal |  IMPLEMENTED  |
 | HR04 | User shall be able to multiply the matrices | Techincal |  IMPLEMENTED  |
 | HR05 | User shall be able to find determinant, transpose and inverse of a matrix | Techincal |  IMPLEMENTED  |
-##  Low level Requirements:
+##  Low level Requirements
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
