@@ -1,6 +1,6 @@
 # images
 
-## Some of the screenshots of the program testing each functionality..
+## Some of the screenshots of the program testing each functionality
 
 ### Inputting choice
 
