@@ -37,4 +37,3 @@
 ### Exiting the application
 
 ![Exit](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/exit.PNG)
-
