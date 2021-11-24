@@ -12,7 +12,6 @@
 |  H_07       |tested power of -1 function| 3|-1|-1|Technical |
 |  H_08       |tested power of -1 function| 2|1|1|Technical |
 
-
 ## Table no: Low level test plan
 
 | **Test ID** | **HLT ID** |**Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
