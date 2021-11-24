@@ -90,7 +90,7 @@ void output_matrix(float **matrix,int n){
  * @param n 
  * @return error_t 
  */
-error_t add_matrices(float **matrix1,float **matrix2, int n){
+error_t add_matrices(float **matri1,float **matri2, int n){
     int i,j;
     float **result;
 
