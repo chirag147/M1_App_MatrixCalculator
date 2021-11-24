@@ -29,7 +29,6 @@ Folder             | Description
 |F_06| Dynamic memory allocation and deallocation has been implemented for the matrices|
 |F_07|  There is no upper limit for the size of the matrix|
 
-
 ## Challenges Faced and How Was It Overcome
 
 | No. | Challenge | Solution
@@ -38,5 +37,3 @@ Folder             | Description
 |2. | Program crashes | Writing clean code with allocating and deallocating memory at all functions as per requirement|
 |3. | Logical errors faced while designing matrix operations| Referred some articles to revise matrix basics and operations on 2D arrays
 |4. | Unit testing on dynamic 2D array outputs| Created enumerated variables to be returned by those functions if the specified operation executes successfully
-
-
