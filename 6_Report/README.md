@@ -63,3 +63,18 @@ This program can be executed in a system which has Linux or Windows operating sy
 | LR05 | The determinant of a single matrix of a specified size is implemented| HR05 |  IMPLEMENTED  |
 | LR06 | The transpose of a single matrix operation is implemented | HR05 |  IMPLEMENTED  |
 | LR07 | To find the inverse of a matrix, both the determinant function and the transpose functions are used in it. The condition that a matrix is invertible is to check if the determinant of the matrix is equal to 0. | HR05 |  IMPLEMENTED  |
+
+# Design
+
+## High Level Design 
+
+### Architectural Diagram
+![Architecture](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2f7cd31a2423557dc6a498f2772590102849d739/2_Design/FlowChart.png)
+
+### Use Case Diagram
+![Use Case Diagram](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2f7cd31a2423557dc6a498f2772590102849d739/2_Design/usecasediagram.png)
+
+## Low Level Design 
+
+### UML Class Diagram
+![UML class diagram](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2f7cd31a2423557dc6a498f2772590102849d739/2_Design/Umlclassdiagram.png)
