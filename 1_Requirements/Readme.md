@@ -25,7 +25,6 @@ The system on the whole is viewed as a blackbox which accepts input of a single 
 
 ![SWOT-Sample](https://github.com/chirag147/M1_App_MatrixCalculator/blob/4e265e677c43b5b0d57811a6b3146367678cbb51/1_Requirements/SWOT.png)
 
-
 ## Who
 Students who want to solve matrix related problems for their academic work
 Datascience workers working on machine learning and deep learning applications which majorly involve matrices
