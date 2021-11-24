@@ -25,7 +25,6 @@ A user who is working on a laptop or a desktop who would be working on matrix ba
 
 ![SWOT-Sample](https://github.com/chirag147/M1_App_MatrixCalculator/blob/4e265e677c43b5b0d57811a6b3146367678cbb51/1_Requirements/SWOT.png)
 
-# 4W&#39;s and 1&#39;H
 
 ## Who
 Students who want to solve matrix related problems for their academic work
