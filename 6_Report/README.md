@@ -78,3 +78,14 @@ This program can be executed in a system which has Linux or Windows operating sy
 
 ### UML Class Diagram
 ![UML class diagram](https://github.com/chirag147/M1_App_MatrixCalculator/blob/2f7cd31a2423557dc6a498f2772590102849d739/2_Design/Umlclassdiagram.png)
+
+# Implementation
+
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for calculator
+`unity`       | All unity files
+`test`        | All source code and data for testing purposes
+`build`       | Build output (Not included in git)
