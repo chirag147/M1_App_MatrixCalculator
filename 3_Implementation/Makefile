@@ -1,9 +1,6 @@
 # Name of the project
 PROJECT_NAME = Matrix_Calculator
 
-#Doxyfile folder
-DOC = doc
-
 # All source code files
 SRC = project_main.c\
 src/matrix_operations.c
